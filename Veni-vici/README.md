@@ -2,7 +2,7 @@
 
 Submitted by: **Ida Touray**
 
-This web app: **is an interactive cat discovery experience that lets users randomly explore cat breeds from The Cat API, ban unwanted attributes, and keep track of the cats they have already seen in a side history panel.**
+This web app: **An interactive cat discovery experience that lets users randomly explore cat breeds from The Cat API, ban unwanted attributes, and keep track of the cats they have already seen in a side history panel.**
 
 Time spent: **6** hours spent in total
 
@@ -44,12 +44,12 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://s2.ezgif.com/tmp/ezgif-282f726f39bfb3d9.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
+[ezgif] https://ezgif.com/video-to-gif/ezgif-2ba9b3ecbd5aebdd.mov.html for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
@@ -59,7 +59,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2026] [Ida Touray]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
